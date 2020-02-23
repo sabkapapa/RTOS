@@ -3,7 +3,7 @@
 Server side: Compile the myserver.c using the command 'gcc -o server myserver.c' and then while executing use the command :
 './server port no.'.
 
-Client Side: Compile the client with a similar command as above but with the client file and then execute with './client <username> port no.'.
+Client Side: Compile the client with a similar command as above but with the client file and then execute with './client username port no.'.
 
 Usage: 
 While sending a text to other client use 'send' command followed by the client id as specified at the server & then type your message
